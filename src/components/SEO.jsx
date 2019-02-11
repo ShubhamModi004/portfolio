@@ -50,10 +50,10 @@ const Head = props => {
     },
     datePublished: '2019-01-17',
     dateModified: buildTime,
-    image: {
-      '@type': 'ImageObject',
-      url: image,
-    },
+    // image: {
+    //   '@type': 'ImageObject',
+    //   url: image,
+    // },
   }
 
   // Initial breadcrumb list
@@ -82,9 +82,9 @@ const Head = props => {
       <html lang={config.siteLanguage} />
       <title>{title}</title>
       <link rel="apple-touch-icon" href="/favicons/apple-touch-icon.png" />
-      <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
-      <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
-      <meta name="gatsby-starter" content="Shubham modi" />
+      {/* <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
+      <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" /> */}
+      <meta name="Shubham" content="Shubham modi" />
       <link rel="shortcut icon" href="favicon.ico" />
       <meta name="msapplication-TileColor" content={config.backgroundColor} />
       <meta name="msapplication-config" content="browserconfig.xml" />
