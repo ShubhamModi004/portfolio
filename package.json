@@ -1,8 +1,8 @@
 {
-  "name": "shubham-modi",
-  "description": "personal-portfolio",
+  "name": "gatsby-starter-portfolio-cara",
+  "description": "Playful & Colorful One-Page website with Parallax effect powered by react-spring, TailwindCSS.",
   "version": "3.0.0",
-  "author": "Shubham Modi",
+  "author": "LekoArts <hello@lekoarts.de> (https://www.lekoarts.de)",
   "license": "MIT",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
@@ -29,8 +29,8 @@
     "typeface-open-sans": "^0.0.54"
   },
   "keywords": [
-    "Shubham",
-    "Modi",
+    "gatsby",
+    "starter",
     "portfolio"
   ],
   "scripts": {
@@ -53,11 +53,11 @@
     "prettier": "^1.16.4"
   },
   "repository": {
-    "url": "https://github.com/ShubhamModi004/",
+    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/ShubhamModi004/issues"
+    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara/issues"
   },
-  "homepage": "www.shubhamzip.netlify.com"
+  "homepage": "https://cara.lekoarts.de"
 }
