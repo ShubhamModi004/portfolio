@@ -17,7 +17,6 @@ If you want to quickly bootstrap a design/photography portfolio or use it as a f
 ## Getting Started
 
 
-```
 
 ### Adding new features/plugins
 
