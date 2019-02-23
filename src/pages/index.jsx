@@ -71,6 +71,13 @@ const Index = () => (
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
+            title="GubbleBums"
+            link="http://intelicto.com/"
+            bg="linear-gradient(to right, #824FDF 0%, #A55EDC 100%)"
+          >
+          An extended SDR & Data generation team which gets the right information from an Account level to the prospect level to help Sales -“Sell more”!
+          </ProjectCard>
+          <ProjectCard
             title="Destination Dentistry"
           link="http://destinationdentistry.in/"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
